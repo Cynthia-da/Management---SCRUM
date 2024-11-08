@@ -26,3 +26,5 @@ Livrable 4 : Une application de gestion de la qualité de données
 Infos Pratiques : 
 -	Dépôt sur « Gitea » pour voir l’avancement (Fonctionnement de « Gitea » est similaire à « GitHub »)
 # Management---SCRUM
+
+TEST TEST CYNTHIA
